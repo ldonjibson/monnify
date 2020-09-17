@@ -18,7 +18,7 @@ Quick start
 
 	> **createHashFromWebhook**: Generate hash as described on monnify's documentation to compare with transactionsHash
 
-	>**getTranasactionDetails**: Get the status of a transactions e.g success or failed, this return the json values as seen on monnify's docs.
+	> **getTranasactionDetails**: Get the status of a transactions e.g success or failed, this return the json values as seen on monnify's docs.
 	
 4. *USAGE*
 	Initiate the class with **api** and **secretkey** from monnify then use a thus:
